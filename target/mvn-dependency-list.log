@@ -1,20 +1,49 @@
 
 The following files have been resolved:
-   org.eclipse.jetty:jetty-client:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-http:jar:9.4.6.v20170531:compile
-   com.sparkjava:spark-core:jar:2.7.1:compile
+   org.apache.cassandra.deps:avro:jar:1.4.0-cassandra-1:compile
+   org.eclipse.jetty:jetty-xml:jar:9.4.8.v20171121:compile
+   org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.8.v20171121:compile
+   jline:jline:jar:0.9.94:compile
+   org.eclipse.jetty:jetty-server:jar:9.4.8.v20171121:compile
+   com.sparkjava:spark-core:jar:2.7.2:compile
+   org.eclipse.jetty:jetty-io:jar:9.4.8.v20171121:compile
+   org.eclipse.jetty:jetty-security:jar:9.4.8.v20171121:compile
+   commons-collections:commons-collections:jar:3.2.1:compile
+   commons-lang:commons-lang:jar:2.4:compile
+   org.antlr:stringtemplate:jar:3.2:compile
+   org.apache.thrift:libthrift:jar:0.6.1:compile
+   org.eclipse.jetty:jetty-servlet:jar:9.4.8.v20171121:compile
+   com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:jar:1.1:compile
+   org.codehaus.jackson:jackson-mapper-asl:jar:1.4.0:compile
+   org.eclipse.jetty.websocket:websocket-client:jar:9.4.8.v20171121:compile
+   org.mortbay.jetty:jetty-util:jar:6.1.22:compile
+   commons-codec:commons-codec:jar:1.2:compile
+   org.antlr:antlr:jar:3.2:compile
+   antlr:antlr:jar:2.7.7:compile
+   com.googlecode.json-simple:json-simple:jar:1.1:compile
+   junit:junit:jar:4.4:compile
+   org.mortbay.jetty:jetty:jar:6.1.22:compile
+   com.github.stephenc:jamm:jar:0.2.2:compile
+   com.google.guava:guava:jar:r08:compile
+   org.eclipse.jetty.websocket:websocket-server:jar:9.4.8.v20171121:compile
+   org.eclipse.jetty.websocket:websocket-common:jar:9.4.8.v20171121:compile
+   com.github.stephenc.high-scale-lib:high-scale-lib:jar:1.1.2:compile
+   org.eclipse.jetty:jetty-util:jar:9.4.8.v20171121:compile
+   org.mortbay.jetty:servlet-api:jar:2.5-20081211:compile
+   commons-logging:commons-logging:jar:1.1.1:compile
    javax.servlet:javax.servlet-api:jar:3.1.0:compile
-   org.eclipse.jetty.websocket:websocket-client:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-util:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-io:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty.websocket:websocket-server:jar:9.4.6.v20170531:compile
+   org.antlr:antlr-runtime:jar:3.2:compile
    org.slf4j:slf4j-api:jar:1.7.13:compile
-   org.eclipse.jetty:jetty-webapp:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-security:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-server:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-servlet:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty.websocket:websocket-common:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty:jetty-xml:jar:9.4.6.v20170531:compile
-   org.eclipse.jetty.websocket:websocket-api:jar:9.4.6.v20170531:compile
+   org.eclipse.jetty:jetty-webapp:jar:9.4.8.v20171121:compile
+   org.eclipse.jetty:jetty-client:jar:9.4.8.v20171121:compile
+   org.apache.cassandra:cassandra-all:jar:0.8.1:compile
+   commons-cli:commons-cli:jar:1.1:compile
+   javax.servlet:servlet-api:jar:2.5:compile
+   org.apache.httpcomponents:httpcore:jar:4.0.1:compile
+   org.yaml:snakeyaml:jar:1.6:compile
+   org.codehaus.jackson:jackson-core-asl:jar:1.4.0:compile
+   org.apache.cassandra:cassandra-thrift:jar:0.8.1:compile
+   org.eclipse.jetty:jetty-http:jar:9.4.8.v20171121:compile
+   org.apache.httpcomponents:httpclient:jar:4.0.1:compile
+   org.eclipse.jetty.websocket:websocket-api:jar:9.4.8.v20171121:compile
 
