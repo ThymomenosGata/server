@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         port(getHerokuAssignedPort());
-        get("/", (req, res) -> "Hello World");
+        get("/hello", (req, res) -> "Hello World");
         get("/getuniver", (req, res) -> "University");
         get("/getcash", (req, res) -> "Cash");
     }
